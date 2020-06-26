@@ -1,0 +1,332 @@
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 0
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 1
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 2
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 3
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 4
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 5
+"../../../Engine/Content/BasicShapes/Cone.uasset" 6
+"../../../Engine/Content/BasicShapes/Cube.uasset" 7
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 8
+"../../../Engine/Content/BasicShapes/Plane.uasset" 9
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 10
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 11
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 12
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 13
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 14
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 15
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 16
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 17
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 18
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 19
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 20
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 21
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 22
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 23
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 24
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 25
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 26
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 27
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 28
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 29
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 30
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 31
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 32
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 33
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 34
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 35
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 36
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 37
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 38
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 39
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 40
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 41
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 42
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 43
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 44
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 45
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 46
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 47
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 48
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 49
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 50
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 51
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 52
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 53
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 54
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 55
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 56
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 57
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 58
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 59
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 60
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 61
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 62
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 63
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 64
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 65
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 66
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 67
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 68
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 69
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 70
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 71
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 72
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 73
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 74
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 75
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 76
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 77
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 78
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 79
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 80
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 81
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 82
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 83
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 84
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 85
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 86
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 87
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 88
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 89
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 90
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 91
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 92
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 93
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 94
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 95
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 96
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 97
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 98
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 99
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 100
+"../../../Engine/Content/EngineResources/Black.uasset" 101
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 102
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 103
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 104
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 105
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 106
+"../../../Engine/Content/EngineSounds/Master.uasset" 107
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 108
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 109
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 110
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 111
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 112
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 113
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 114
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 115
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 116
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 117
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 118
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 119
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 120
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 121
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 122
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 123
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 124
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 125
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 126
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 127
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 128
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 129
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 130
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 131
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 132
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 133
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 134
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 135
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 136
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 137
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 138
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 139
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 140
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 141
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 142
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 143
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 144
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 145
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 146
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 147
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 148
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 149
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 150
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 151
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 152
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 153
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 154
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 155
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 156
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 157
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 158
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 159
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 160
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 161
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Levels/MainMenu_BuiltData.uasset" 162
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/UI/Background.uasset" 163
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/UI/W_MainMenu.uasset" 164
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Levels/MainMenu.umap" 165
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 166
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 167
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 168
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 169
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 170
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 171
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 172
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 173
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 174
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 175
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Enemy_Great_Spider/SK_Greater_Spider_Skeleton.uasset" 176
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib01.uasset" 177
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib02.uasset" 178
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib03.uasset" 179
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib04.uasset" 180
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib05.uasset" 181
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib06.uasset" 182
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib01_Stereo.uasset" 183
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib02_Stereo.uasset" 184
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib03_Stereo.uasset" 185
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib04_Stereo.uasset" 186
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib05_Stereo.uasset" 187
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib06_Stereo.uasset" 188
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib_Cue.uasset" 189
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Death.uasset" 190
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Idle.uasset" 191
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Walk_Fwd.uasset" 192
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Enemy_Great_Spider/Animations/AnimBP_Alien.uasset" 193
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_B.uasset" 194
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Enemy_Great_Spider/Animations/AlienAttack1.uasset" 195
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 196
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Marine_Skeleton.uasset" 197
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Animations/Death.uasset" 198
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Animations/Idle.uasset" 199
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Animations/Run_Bwd.uasset" 200
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Animations/Run_Fwd.uasset" 201
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Animations/Run_Lt.uasset" 202
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Animations/Run_Rt.uasset" 203
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Animations/MovementBlendSpace.uasset" 204
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Animations/AnimBP_Marine.uasset" 205
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 206
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 207
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BakedNormal.uasset" 208
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.uasset" 209
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_TintAllChannels.uasset" 210
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Textures/Chr_FPS_D.uasset" 211
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Textures/T_Vista_Grass_N.uasset" 212
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Materials/ML_Base.uasset" 213
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Textures/Chr_FPS_02_M.uasset" 214
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Textures/Chr_FPS_M.uasset" 215
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Materials/ML_Emissive_Custom.uasset" 216
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Textures/Tiles/T_Sctraches_01.uasset" 217
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Materials/ML_Glass.uasset" 218
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Textures/Chr_FPS_Metal_02.uasset" 219
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Materials/ML_Metal_light.uasset" 220
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Textures/Chr_FPS_Metal_01.uasset" 221
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Materials/ML_Metal_Painted.uasset" 222
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Materials/ML_Rubber_dark.uasset" 223
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Textures/Chr_FPS_Fabric_N_01.uasset" 224
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Materials/ML_Rubber_light.uasset" 225
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Materials/M_BodyDamage.uasset" 226
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Textures/Chr_FPS_M_03tga.uasset" 227
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Textures/Chr_FPS_N.uasset" 228
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Materials/M_Marine.uasset" 229
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Materials/MI_MarsMarine.uasset" 230
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Marine_PhysicsAsset.uasset" 231
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Marine.uasset" 232
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Textures/LensFlare/Flare_02.uasset" 233
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Materials/LensFlare/M_LensFlare_02.uasset" 234
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Materials/Ramp/M_radial_ramp_soft.uasset" 235
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Textures/Smoke/T_Clouds_01.uasset" 236
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Textures/Smoke/T_SmokeBall_01_8_8.uasset" 237
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Materials/Smoke/M_ImpactSmoke.uasset" 238
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Textures/Water/T_Steam_02_Packed.uasset" 239
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Materials/Smoke/M_MuzzleSmokeDetail_GPU.uasset" 240
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Textures/Spark/T_SparkCore_2X2.uasset" 241
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Materials/spark/M_spark_subUV.uasset" 242
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Weapons/Impacts/P_AssaultRifle_IH.uasset" 243
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Textures/LensFlare/T_Lensflare_01.uasset" 244
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Materials/LensFlare/M_Lensflare_01.uasset" 245
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 246
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Materials/Ramp/M_SoftGradient_Muzzle.uasset" 247
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Materials/Smoke/M_SmokeBall.uasset" 248
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Textures/Weapon/T_muzzle_flashes.uasset" 249
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Materials/Weapon/M_muzzle_flash_subUV.uasset" 250
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 251
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Textures/Mask/T_SquareMaskTightEdge.uasset" 252
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Textures/Noise/T_TileNoise.uasset" 253
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Materials/Weapon/M_MuzzleGlow.uasset" 254
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Meshes/Weapon/SM_MuzzleCone.uasset" 255
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Weapons/Muzzle/P_AssaultRifle_MF.uasset" 256
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd01_Stereo.uasset" 257
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd02_Stereo.uasset" 258
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd03_Stereo.uasset" 259
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd04_Stereo.uasset" 260
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd05_Stereo.uasset" 261
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd06_Stereo.uasset" 262
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/Weapon_AssaultRifle/Stereo/RifleFireEnd_Cue.uasset" 263
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop01_Stereo.uasset" 264
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop02_Stereo.uasset" 265
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop03_Stereo.uasset" 266
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Sounds/Weapon_AssaultRifle/Stereo/RifleFireLoop_Cue.uasset" 267
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/UI/Textures/AttackerPortrait.uasset" 268
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/UI/Textures/MarinePortrait.uasset" 269
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/UI/W_PlayerHUD.uasset" 270
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/UI/W_PauseMenu.uasset" 271
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Decal.uasset" 272
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_RoughnessOverride.uasset" 273
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/MaterialLayers/ML_BoltMetal.uasset" 274
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/MaterialLayers/T_ExampleLayers_Metal02_N.uasset" 275
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/MaterialLayers/ML_Metal_Copper.uasset" 276
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/MaterialLayers/T_Metal_Metal02_D.uasset" 277
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/MaterialLayers/ML_Metal_Gray.uasset" 278
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/MaterialLayers/T_PaintedMetal01_N.uasset" 279
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/MaterialLayers/T_PaintedMetal02.uasset" 280
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/MaterialLayers/ML_Paint.uasset" 281
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/MaterialLayers/T_Rubber.uasset" 282
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/MaterialLayers/ML_Rubber.uasset" 283
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/Textures/MagGun_01_N.uasset" 284
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/Textures/MagGun_Decals.uasset" 285
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/Textures/MagGunT1_section.uasset" 286
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/Textures/MagGunT1_shade.uasset" 287
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/Materials/MagGun_MatA.uasset" 288
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/Materials/MagGun_MatA_Inst3.uasset" 289
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Emissive.uasset" 290
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/Textures/MagGun_02_N.uasset" 291
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/Textures/MagGun_Display_EM.uasset" 292
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/Textures/MagGunT2_section.uasset" 293
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/Textures/MagGunT2_shade.uasset" 294
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/Materials/MagGun_MatB.uasset" 295
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/Materials/MagGun_MatB_Inst2.uasset" 296
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Marine/Textures/holo_layer_1_5.uasset" 297
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/Textures/SightLens_maskA.uasset" 298
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/Textures/SightLens_maskB.uasset" 299
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/Materials/MagGun_SightLens_Mat.uasset" 300
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/Materials/MagGun_SightLens_Mat_Inst.uasset" 301
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/Rifle_Skeleton.uasset" 302
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Weapons/Rifle.uasset" 303
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Blueprints/Pawns/BP_Marine.uasset" 304
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_D.uasset" 305
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_M.uasset" 306
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_N.uasset" 307
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Enemy_Great_Spider/Materials/CharM_Greater_Spider.uasset" 308
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Characters/Enemy_Great_Spider/SK_Greater_Spider.uasset" 309
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Blueprints/AI/BP_Alien.uasset" 310
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Blueprints/GameModes/BP_MarsMarine_GameMode.uasset" 311
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Materials/Gameplay/Pickups/M_PickUp_Master.uasset" 312
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Meshes/Gameplay/Pickups/SM_Health.uasset" 313
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Misc/Meshes/General/S_Sphere.uasset" 314
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Effects/Pick-ups/P_Health.uasset" 315
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Blueprints/Pick-Ups/BP_HealthPickUp.uasset" 316
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Blueprints/Volumes/BP_MissionAreaVolume.uasset" 317
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Levels/Mars_BuiltData.uasset" 318
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Rocks/Textures/T_Ground_Gravel_D.uasset" 319
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Rocks/Textures/T_Ground_Gravel_N.uasset" 320
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Rocks/Textures/T_MacroVariation.uasset" 321
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Rocks/Textures/T_Perlin_Noise_M.uasset" 322
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Rocks/Materials/M_MarsRock.uasset" 323
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Rocks/Textures/T_Rock_Sandstone_D.uasset" 324
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Rocks/Textures/T_Rock_Sandstone_N.uasset" 325
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Rocks/Materials/M_Rock_Sandstone.uasset" 326
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 327
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Rocks/SM_Rock.uasset" 328
+"../../../../../../Users/flkoe/Documents/Unreal Projects/Mars_Marine/Content/Levels/Mars.umap" 329
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 330
+"../../../Engine/Content/Maps/Entry.umap" 331
